@@ -36,4 +36,6 @@ I was able to achieve a 72% accuracy!
 What steps did you take in your attempts to increase model performance?
 I did 3 changes, dropped "use_case" column from original dataframe, added an adiitional hidden layer, and increased the number of neurons in my hidden layers
 
-Summary: Overall, the initial model accuracy without any optimization was 72%, by adding an additiona hidden layer, increasing number of neuorns and dropping one column (use_case), i was able to increase model accuracy to 73% roughly. I am sure that are more ways to test different activation functions to test for better numbers.
+**Summary**: Overall, the initial model accuracy without any optimization was 72%, by adding an additiona hidden layer, increasing number of neuorns and dropping one column (use_case), i was able to increase model accuracy to 73% roughly. I am sure that are more ways to test different activation functions to test for better numbers.
+
+![image](https://github.com/zekoNinja/deep-learning-challenge/assets/141674216/d1f401f8-8064-4890-9b61-f6e3d3ff579e)
