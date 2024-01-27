@@ -40,7 +40,8 @@ I did 3 changes, dropped "use_case" column from original dataframe, added an adi
 
 
 **Model Performance without Optimizaiton**
-![image](https://github.com/zekoNinja/deep-learning-challenge/assets/141674216/cc2a37be-4198-4ea7-a042-914ce8d741ee)
+![image](https://github.com/zekoNinja/deep-learning-challenge/assets/141674216/f2c1abe6-db5e-47b3-be42-49705bb802de)
+
 
 
 **Model Performance With Optimizaiton**
